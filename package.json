@@ -1,6 +1,6 @@
 {
     "name":                 "pushback",
-    "version":              "0.0.1",
+    "version":              "0.0.0",
     "description":
 
       "An implementation of WebSockets that respects TCP congestion control.",
