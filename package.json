@@ -3,7 +3,7 @@
     "version":              "0.0.1",
     "description":
 
-      "An HTTP to WebSockets proxy to advertise multiple HTTP applications through a single HTTP socket.",
+      "An implementation of WebSockets that respects TCP congestion control.",
 
     "keywords":
     [

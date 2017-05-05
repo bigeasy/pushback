@@ -1,20 +1,19 @@
-Conduit
+Pushback
 
-An HTTP to WebSockets proxy to advertise multiple HTTP applications through a
-single HTTP socket.
+An implementation of WebSockets that respects TCP congestion control.
 
-    Discussion:     https://github.com/bigeasy/conduit/issues/1
+    Discussion:     https://github.com/bigeasy/pushback/issues/1
 
-    Documentation:  https://bigeasy.github.io/conduit
-    Source:         https://github.com/bigeasy/conduit
-    Issues:         https://github.com/bigeasy/conduit/issues
-    CI:             https://travis-ci.org/bigeasy/conduit
-    Coverage:       https://coveralls.io/github/bigeasy/conduit
+    Documentation:  https://bigeasy.github.io/pushback
+    Source:         https://github.com/bigeasy/pushback
+    Issues:         https://github.com/bigeasy/pushback/issues
+    CI:             https://travis-ci.org/bigeasy/pushback
+    Coverage:       https://coveralls.io/github/bigeasy/pushback
 
-    Install:        `npm install conduit`
+    Install:        `npm install pushback`
 
     License:        MIT
 
 To learn everything you want to know about Conduit start here:
 
-    http://bigeasy.github.io/conduit
+    http://bigeasy.github.io/pushback
