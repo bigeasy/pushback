@@ -1,5 +1,5 @@
 {
-    "name":                 "conduit",
+    "name":                 "pushback",
     "version":              "0.0.1",
     "description":
 
@@ -10,12 +10,12 @@
                             "shell", "events", "streams"
     ],
     "author":               "Alan Gutierrez",
-    "homepage":             "https://github.com/bigeasy/conduit",
+    "homepage":             "https://github.com/bigeasy/pushback",
     "license":              "MIT",
     "repository":
     {
                             "type": "git",
-                            "url": "http://github.com/bigeasy/conduit.git"
+                            "url": "http://github.com/bigeasy/pushback.git"
     },
     "dependencies":
     {
@@ -27,7 +27,7 @@
                             "websocket":                    "1.0.23",
                             "ws":                           "1.1.1"
     },
-    "main":                 "conduit",
+    "main":                 "pushback",
     "scripts":
     {
                             "test": "proof platform win32 && proof test */*.t.js || t/test"
